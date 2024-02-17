@@ -1,0 +1,21 @@
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.name {
+  color: #ffffff;
+  font-family: Encode Sans;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+.footer-icons {
+  color: #ffffff;
+  width: 90px;
+  height: 90px;
+}

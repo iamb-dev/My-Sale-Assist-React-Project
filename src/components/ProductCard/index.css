@@ -1,0 +1,123 @@
+.product-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-heading {
+  color: #ffffff;
+  font-family: Encode Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+  text-align: left;
+}
+.dot-icon {
+  width: 8px;
+  height: 8px;
+}
+.arrow-icon {
+  width: 20px;
+  height: 30px;
+  padding-left: 5px;
+}
+.product-card-container {
+  background-color: #0c0c0c;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  width: 290px;
+}
+.image-container-1 {
+  background-image: url('https://res.cloudinary.com/din4ndwa7/image/upload/v1708143368/bags1_j1stkp.jpg');
+  width: 288.39px;
+  height: 432.53px;
+  border-radius: 6.59px, 6.59px, 0px, 0px;
+}
+.image-container-2 {
+  background-image: url('https://res.cloudinary.com/din4ndwa7/image/upload/v1708143369/bags2_uiufyh.jpg');
+  width: 288.39px;
+  height: 432.53px;
+  border-radius: 6.59px, 6.59px, 0px, 0px;
+}
+.image-container-3 {
+  background-image: url('https://res.cloudinary.com/din4ndwa7/image/upload/v1708143369/bags3_ui3yvn.jpg');
+  width: 288.39px;
+  height: 432.53px;
+  border-radius: 6.59px, 6.59px, 0px, 0px;
+}
+.image-container-4 {
+  background-image: url('https://res.cloudinary.com/din4ndwa7/image/upload/v1708143368/bags4_nc00vm.jpg');
+  width: 288.39px;
+  height: 432.53px;
+  border-radius: 6.59px, 6.59px, 0px, 0px;
+}
+.bookmark-icon {
+  font-family: Font Awesome 5 Pro;
+  font-size: 34px;
+  font-weight: 300;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: 26px;
+  height: 34px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.para {
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  color: #ffffff;
+}
+.rupee-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.rupee-sign {
+  width: 12px;
+  height: 19px;
+  color: #ffffff;
+}
+.price {
+  font-family: Encode Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #ffffff;
+}
+.rupee {
+  font-family: Encode Sans;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: right;
+  color: #ffffff;
+}
+.rupee-off {
+  font-family: Encode Sans;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2fc14f;
+}
+.shopping-bag-icon {
+  height: 40px;
+  width: 26px;
+  color: #e5dfd9;
+}
